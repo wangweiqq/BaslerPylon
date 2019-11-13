@@ -124,9 +124,6 @@
     <QtUic Include="BaslerTest.ui" />
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="BaslerTest.qrc" />
-  </ItemGroup>
-  <ItemGroup>
     <QtMoc Include="BaslerCameraThread.h" />
   </ItemGroup>
   <ItemGroup>
